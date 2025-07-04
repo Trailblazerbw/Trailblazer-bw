@@ -11,3 +11,5 @@
 由于相关原因，本脚本暂且闭源。
 
 启动的时候别挂梯子！！！！！！
+
+TG交流群 [t.me/Trailblazerbw](https://t.me/Trailblazerbw)
