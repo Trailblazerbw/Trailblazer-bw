@@ -9,3 +9,5 @@
 部分样式借鉴自[transition-ticket](https://github.com/biliticket/transition-ticket)
 
 由于相关原因，本脚本暂且闭源。
+
+启动的时候别挂梯子！！！！！！
