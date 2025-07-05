@@ -17,3 +17,5 @@
 TG交流群 [t.me/Trailblazerbw](https://t.me/Trailblazerbw)
 
 安利下wifi大佬的[票务监控网站](https://ticket.wittf.ink/)
+
+0705-22:02新增bw乐园活动预约
