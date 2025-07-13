@@ -1,3 +1,10 @@
+**<span style="font-size:1.5em;">2025年bw/bml已结束，本脚本进入停更状态。</span>**
+
+**<span style="font-size:1.5em;">2025年bw/bml已结束，本脚本进入停更状态。</span>**
+
+**<span style="font-size:1.5em;">2025年bw/bml已结束，本脚本进入停更状态。</span>**
+
+
 该脚本适用于会员购抢票
 
 感谢mikumifa、ziantt、wifi等相关作出贡献的所有大佬
